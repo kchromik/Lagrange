@@ -1,18 +1,17 @@
 ---
+title: About
 layout: page
-title: Welcome to Lagrange!
+image: profile.png
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+![My helpful screenshot]({{ "/assets/img/profile.png" | absolute_url }}){: .center-image }
 
-### Getting Started
+Hi, I'm Kevin and I am an iOS Developer at [Freeletics GmbH](https://www.freeletics.com) in Munich, Germany. I love sports and everything related to mobile development.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+### University
+I graduated my Information Management master's at Alpen-Adria University in Klagenfurt, Austria.
 
-### Example Content
+### Previous Work
+I've been working at [CupoNation GmbH](https://www.cuponation.com) for almost two years as a Software Quality Assurance Engineer.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+For more information, please visit my [LinkedIn profile](https://www.linkedin.com/in/kevin-chromik-28464897/).
