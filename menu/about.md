@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-image: profile.png
+permalink: /menu/about/
 ---
 
 ![My helpful screenshot]({{ "/assets/img/profile.png" | absolute_url }}){: .center-image }
