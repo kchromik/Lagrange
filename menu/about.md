@@ -1,5 +1,5 @@
 ---
-title: About
+title: ""
 layout: page
 permalink: /menu/about/
 ---
@@ -8,10 +8,19 @@ permalink: /menu/about/
 
 Hi, I'm Kevin and I am an Mobile Software Engineer at [PAYBACK GmbH](https://www.payback.de/app) in Munich, Germany. I love sports and everything related to mobile development.
 
-### Previous Work
+### Competences
 
+ - design and implementation of libraries and full native iOS applications
+ - maintenance and refactoring of existing applications
+ - delivering high quality and modern products
+ - ***Toolset***: Swift, Objective-C, Reactive Programming, MVVM, Security, REST, Unit Tests, Integration Tests, StoreKit, HealthKit, Core Data, Alamofire, Core Bluetooth, Auto Layout, Jenkins, Fastlane, CocoaPods, Apple Watch & more.
+
+### Previous Work
 - 3+ years as iOS Developer at [Freeletics GmbH](https://www.freeeltics.com).
 - 2 years as Software Quality Assurance Engineer at [CupoNation GmbH](https://www.cuponation.com).
+
+### Contact
+If you are having any problems, any questions or suggestions, feel free to [send an email](mailto:hi@kchromik.com).
 
 For more information, please visit my [LinkedIn profile](https://www.linkedin.com/in/kevin-chromik-28464897/).
 
