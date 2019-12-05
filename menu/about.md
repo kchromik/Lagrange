@@ -16,7 +16,7 @@ Hi, I'm Kevin and I am an Mobile Software Engineer at [PAYBACK GmbH](https://www
  - ***Toolset***: Swift, Objective-C, Reactive Programming, MVVM, Security, REST, Unit Tests, Integration Tests, StoreKit, HealthKit, Core Data, Alamofire, Core Bluetooth, Auto Layout, Jenkins, Fastlane, CocoaPods, Apple Watch & more.
 
 ### Previous Work
-- 3+ years as iOS Developer at [Freeletics GmbH](https://www.freeeltics.com).
+- 3+ years as iOS Developer at [Freeletics GmbH](https://www.freeletics.com).
 - 2 years as Software Quality Assurance Engineer at [CupoNation GmbH](https://www.cuponation.com).
 
 ### Contact
