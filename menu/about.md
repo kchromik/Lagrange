@@ -6,16 +6,17 @@ permalink: /menu/about/
 
 ![My helpful screenshot]({{ "/assets/img/profile.jpg" | absolute_url }}){: .center-image }
 
-Hi, I'm Kevin and I am an Mobile Software Engineer at [PAYBACK GmbH](https://www.payback.de/app) in Munich, Germany. I love sports and everything related to mobile development.
+Hi, I'm Kevin and I am an Senior iOS Developer at [Exaring AG](https://www.waipu.tv) in Munich, Germany. I love sports and everything related to mobile development.
 
 ### Competences
 
  - design and implementation of libraries and full native iOS applications
  - maintenance and refactoring of existing applications
  - delivering high quality and modern products
- - ***Toolset***: Swift, Objective-C, Reactive Programming, MVVM, Security, REST, Unit Tests, Integration Tests, StoreKit, HealthKit, Core Data, Alamofire, Core Bluetooth, Auto Layout, Jenkins, Fastlane, CocoaPods, Apple Watch & more.
+ - ***Toolset***: Swift, Objective-C, Kotlin Native, Reactive Programming, MVVM, Security, REST, Unit Tests, Integration Tests, StoreKit, HealthKit, Core Data, Alamofire, Core Bluetooth, Auto Layout, Jenkins, Fastlane, CocoaPods, Apple Watch & more.
 
 ### Previous Work
+- 2.5 years as Mobile Software Engineer at [PAYBACK GmbH](https://www.payback.de/app).
 - 3+ years as iOS Developer at [Freeletics GmbH](https://www.freeletics.com).
 - 2 years as Software Quality Assurance Engineer at [CupoNation GmbH](https://www.cuponation.com).
 
