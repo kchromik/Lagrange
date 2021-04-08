@@ -6,7 +6,7 @@ permalink: /menu/about/
 
 ![My helpful screenshot]({{ "/assets/img/profile.jpg" | absolute_url }}){: .center-image }
 
-Hi, I'm Kevin and I am an Senior iOS Developer at [Exaring AG](https://www.waipu.tv) in Munich, Germany. I love sports and everything related to mobile development.
+Hi, I'm Kevin and I am an Senior iOS Developer at [eXaring AG](https://www.waipu.tv) in Munich, Germany. I love sports and everything related to mobile development.
 
 ### Competences
 
